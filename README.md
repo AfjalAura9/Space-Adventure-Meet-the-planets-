@@ -2,6 +2,9 @@
 
 **Solar Explorer** is an interactive web app that allows users to explore the solar system 🚀! Discover planets, moons, and other celestial bodies with beautiful visuals and educational content 🌍✨. Perfect for space enthusiasts, learners, and curious minds 🌟.
 
+![Screenshot 2024-11-10 124925](https://github.com/user-attachments/assets/413bbce1-454d-4350-a11e-cc57c34bd796)
+**Live Demo** (https://spaceadventureafjalaura9.netlify.app/)
+
 ## Features
 - 🌎 Explore planets and their moons.
 - 📚 Educational content on each planet’s characteristics.
