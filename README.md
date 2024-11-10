@@ -13,7 +13,7 @@
 - **CSS3** (with advanced CSS for 2d & 3D animations, keyframes etc...)
 
 ## How to Run
-1. Clone the repo to your VS Code directly (watch this: https://youtu.be/3ZLoapBD01w?si=6dYBOPPfxnYqMcti)
+1. Clone the repo `https://github.com/AfjalAura9/Space-Adventure-Meet-the-planets-.git` to your VS Code directly (watch this: https://youtu.be/3ZLoapBD01w?si=6dYBOPPfxnYqMcti)
 2. Open `index.html` in your browser.
 
 ## Contributing
